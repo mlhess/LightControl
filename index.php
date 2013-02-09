@@ -23,4 +23,4 @@ $serial->sendMessage("$msg");
 $read = $serial->readPort(); 
 } 
 print $read;
-require("index.html");
+require("table.html");
